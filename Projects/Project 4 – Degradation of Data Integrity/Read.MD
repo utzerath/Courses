@@ -1,1 +1,0 @@
-#For the implementation in Code, I used two packages: Numpy and matplotlib. I first used numpy to define a range of x values for the graph. Then, using numpy, I created the equations to graph. I then plotted the equations using matplotlib and displayed the graph.
